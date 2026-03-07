@@ -10,7 +10,7 @@ from datetime import datetime
 import collections
 import numpy as np
 import networkx as nx
-from sklearn.neighbors.kde import KernelDensity
+from sklearn.neighbors import KernelDensity
 import math
 import itertools
 from sklearn import metrics
